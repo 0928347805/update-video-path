@@ -71,8 +71,7 @@ const GIFT_DATA = [
     name: '被愛包圍的瞬間',
     iconUrl: GIFT_ICONS.love,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/520%E5%BF%83%E5%8B%95%E9%A0%90%E5%82%99_%E8%A2%AB%E6%84%9B%E5%8C%85%E5%9C%8D%E7%9A%84%E7%9E%AC%E9%96%93_%E7%A6%AE%E7%89%A9_both.mp4',
+    animationUrl:'/520心動預備_被愛包圍的瞬間_禮物_both.mp4',
     animationType: 'video',
   },
   {
@@ -89,8 +88,7 @@ const GIFT_DATA = [
     name: '鯉魚躍龍門',
     iconUrl: GIFT_ICONS.dragon,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/VIP2%E6%9C%88_%E9%AF%89%E9%AD%9A%E8%BA%8D%E9%BE%8D%E9%96%80_%E5%88%AE%E5%88%AE%E5%8D%A1_both.mp4',
+    animationUrl: '/VIP2月_鯉魚躍龍門_刮刮卡_both.mp4',
     animationType: 'video',
   },
   {
@@ -106,8 +104,7 @@ const GIFT_DATA = [
     name: '浴火重生火箭',
     iconUrl: GIFT_ICONS.phoenix,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/%E6%9C%AB%E6%97%A5%E9%87%8D%E7%94%9F%E9%B3%B3%E5%87%B0%E5%AF%86%E4%BB%A4_%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%E7%81%AB%E7%AE%AD_%E7%A6%AE%E7%89%A9_both.mp4',
+    animationUrl:'/末日重生鳳凰密令_浴火重生火箭_禮物_both.mp4',
     animationType: 'video',
   },
   {
@@ -124,8 +121,7 @@ const GIFT_DATA = [
     name: '能量召喚陣',
     iconUrl: GIFT_ICONS.energy,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/VIP1%E6%9C%88_%E8%83%BD%E9%87%8F%E5%8F%AC%E5%96%9A%E9%99%A3_%E7%A6%AE%E7%89%A9_both.mp4',
+    animationUrl:'/VIP1月_能量召喚陣_禮物_both.mp4',
     animationType: 'video',
   },
   {
@@ -133,8 +129,7 @@ const GIFT_DATA = [
     name: '冬日序曲',
     iconUrl: GIFT_ICONS.hotpot,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/VIP11%E6%9C%88_%E5%86%AC%E6%97%A5%E5%BA%8F%E6%9B%B2_%E7%A6%AE%E7%89%A9_both.mp4',
+    animationUrl:'/VIP11月_冬日序曲_禮物_both.mp4',
     animationType: 'video',
   },
   {
@@ -142,8 +137,7 @@ const GIFT_DATA = [
     name: '送你戰鬥雞',
     iconUrl: GIFT_ICONS.chicken,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/%E5%A5%A7%E6%A8%82%E9%9B%9E_%E9%80%81%E4%BD%A0%E6%88%B0%E9%AC%A5%E9%9B%9E_%E7%A6%AE%E7%89%A9_both.mp4',
+    animationUrl:'/奧樂雞_送你戰鬥雞_禮物_both.mp4',
     animationType: 'video',
   },
   {
@@ -151,8 +145,7 @@ const GIFT_DATA = [
     name: '魔法書的召喚',
     iconUrl: GIFT_ICONS.magic,
     isIconImage: true,
-    animationUrl:
-      'https://cdn.jsdelivr.net/gh/0928347805/test@main/%E9%AD%94%E6%B3%95%E6%88%80%E6%84%9B%E5%AD%B8%E9%99%A2_%E8%BD%89%E7%9B%A4%E7%A6%AE%E7%89%A9LV1_%E9%AD%94%E6%B3%95%E6%9B%B8%E7%9A%84%E5%8F%AC%E5%96%9A_both.mp4',
+    animationUrl:'/魔法戀愛學院_轉盤禮物LV1_魔法書的召喚_both.mp4',
     animationType: 'video',
   },
 ];
